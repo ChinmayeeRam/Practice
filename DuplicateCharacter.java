@@ -22,6 +22,4 @@ public class DuplicateCharacter {
                 System.out.println(str[i]);
         }
     }
-
-
 }
